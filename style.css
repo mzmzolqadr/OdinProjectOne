@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+.header {
+  background-color: #1f2937;
+}
+
+.headerLink {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.nav h3 {
+  font-size: 24px;
+  color: #f9faf8;
+}
+
+.copyRight {
+  background-color: #1f2937;
+}
+
+.text-container h3 {
+  font-size: 48px;
+  font-weight: bolder;
+  color: #f9faf8;
+}
+
+.text-container p {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.text-container button {
+  background-color: #3882f6;
+}
+
+.main01 h3 {
+  font-size: 36px;
+  font-weight: bolder;
+  color: #1f2937;
+}
+
+.main02 {
+  background-color: #e5e7eb;
+  font-size: 36px;
+  font-style: light italic;
+  color: #1f2937;
+}
+
+.blueBox button {
+  background-color: #3882f6;
+}
